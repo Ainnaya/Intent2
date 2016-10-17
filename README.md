@@ -9,17 +9,16 @@ NIS: 4653/1372.070
 
 Nama Sekolah: SMK Telkom Malang
 
-Aplikasi **Intent2** ini adalah aplikasi yang berguna untuk **menampilkan isi dari Biodata anda berupa *Nama* dan *Tahun Kelahiran* anda**
+Aplikasi Intent2 ini adalah aplikasi yang berguna untuk **menampilkan isi dari Biodata anda berupa *Nama* dan *Tahun Kelahiran* anda**
 yang anda inputkan pada pada isian yang tersedia.
 
-Aplikasi **Intent2** terdapat:
-  - *button ISI BIODATA* yang dipergunakan untuk membuka halaman selanjutnya agar user dapat
-menginputkan *Nama* dan *Tahun Kelahirannya*.
-  - *2 kolom text input* untuk menginputkan *Nama* dan *Tahun Kelahiran* user
-  - *button SELESAI* yang diKlik pada saat anda sudah selesai menginputkan *Nama* dan *Tahun Kelahiran*
-  yang berfungsi untuk menampilkan hasil berupa Nama dan Tahun Kelahiran sesuai apa yang anda inputkan tadi.
+Aplikasi Intent2 terdapat:
+  - **button ISI BIODATA** yang dipergunakan untuk membuka halaman selanjutnya agar user dapat
+menginputkan Nama dan Tahun Kelahirannya.
+  - **2 kolom Text Input** untuk menginputkan Nama dan Tahun Kelahiran user
+  - **button SELESAI** yang diKlik pada saat anda sudah selesai menginputkan data yang tersedia dan berfungsi untuk menampilkan hasil berupa Nama dan Tahun Kelahiran sesuai apa yang anda inputkan tadi.
 
-Cara menggunakan aplikasi Intent1 ini yaitu:
+Cara menggunakan aplikasi Intent2 ini yaitu:
   - Buka aplikasi Intent2.
   - Klik *button ISI BIODATA* untuk menginputkan data anda
   - Masukkan Nama dan Tahun Kelahiran anda
